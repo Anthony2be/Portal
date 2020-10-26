@@ -15,6 +15,3 @@ scoreboard objectives add ppID
 # Confirm initiation back end
 scoreboard objectives add ppInit
 scoreboard players set $ppdatapack_template ppinit 1
-
-# Confirm initiation front end
-tellraw @a [{"text": "[SC] ","color": "aqua"},{"text": "DataPack ppdatapack_template successfully initiated!","color": "gold"}]
