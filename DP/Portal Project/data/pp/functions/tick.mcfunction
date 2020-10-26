@@ -10,4 +10,4 @@
 #==================================================================#
 
 # Scoreboard ID System
-execute as @a[scores=!{ppID=1..}] run function sc:new_player
+execute as @a[scores=!{ppID=1..}] run function pp:new_player
