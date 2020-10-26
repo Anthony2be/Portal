@@ -4,5 +4,5 @@ Mention of DataPack Name: PP (Ex: $PP in pp:load.mcfunction)
 Base Item for Models: Dirt
 Custom Model Data list:
     Dirt:
-        1 = Portal Red
+        1 = Portal Orange
         2 = Portal Blue
