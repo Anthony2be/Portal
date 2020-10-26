@@ -1,0 +1,13 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+   "layer0": "item/dirt"
+  },
+ 
+  "overrides": [
+   { "predicate": {"custom_model_data": 2}, "model": "item/bluePortal"}
+ 
+  ]
+ 
+  
+ }
