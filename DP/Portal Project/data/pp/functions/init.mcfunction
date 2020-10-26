@@ -14,4 +14,4 @@ scoreboard objectives add ppID
 
 # Confirm initiation back end
 scoreboard objectives add ppInit
-scoreboard players set $ppdatapack_template ppinit 1
+scoreboard players set $PP ppInit 1
