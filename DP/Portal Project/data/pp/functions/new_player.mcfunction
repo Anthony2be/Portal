@@ -11,4 +11,4 @@
 #==================================================================#
 
 # Prevents system from retargetting by assigning an ID
-execute store result score @s SC_ID run scoreboard players add $New_ID SC_ID 1
+execute store result score @s ppID run scoreboard players add $New_ID ppID 1
