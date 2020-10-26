@@ -1,3 +1,8 @@
 Namespace: pp
 Scoreboard/Tag prefix: pp (Ex: ppID use capital for first letter of actual name)
 Mention of DataPack Name: PP (Ex: $PP in pp:load.mcfunction)
+Base Item for Models: Dirt
+Custom Model Data list:
+    Dirt:
+        1 = Portal Red
+        2 = Portal Blue
