@@ -1,0 +1,13 @@
+{
+	"sound.custom.portal-2-sound-effects-portal-gun-fire-blue":{
+		"sounds": [
+			"custom/portal-2-sound-effects-portal-gun-fire-blue"
+		]
+    },
+	"sound.custom.portal-2-sound-effects-portal-gun-fire-orange":{
+		"sounds": [
+			"custom/portal-2-sound-effects-portal-gun-fire-orange"
+		]
+    
+    }
+}
