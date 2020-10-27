@@ -8,7 +8,7 @@ Custom Model Data list:
         1 = Portal Orange
         2 = Portal Blue
     COAS:
-        1 = Portal Gun
+        1 = Portal Gun (/give @s carrot_on_a_stick{pp:1b,CustomModelData:1b})
 
 
 Players have separate pairs of portals
