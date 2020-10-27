@@ -1,7 +1,7 @@
 {
-  "parent": "item/handheld",
+  "parent": "minecraft:block/dirt",
   "textures": {
-   "layer0": "item/dirt"
+   "layer0": "block/dirt"
   },
  
   "overrides": [
