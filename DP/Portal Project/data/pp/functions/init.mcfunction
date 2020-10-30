@@ -10,8 +10,8 @@
 #==================================================================#
 
 # Install needed scoreboards
-scoreboard objectives add ppID
+scoreboard objectives add ppID dummy
 
 # Confirm initiation back end
-scoreboard objectives add ppInit
+scoreboard objectives add ppInit dummy
 scoreboard players set $PP ppInit 1
