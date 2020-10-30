@@ -9,12 +9,8 @@
 #   Twitter: https://twitter.com/sheep_commander                   #
 #==================================================================#
 
-# Install needed scoreboards
-scoreboard objectives add ppID dummy
+# Tell system it hit something to stop raycast
+tag @s add ppHit
 
-# Confirm initiation back end
-scoreboard objectives add ppInit dummy
-scoreboard players set $PP ppInit 1
-
-# Right Click Detection
-scoreboard objectives add ppUseR used:carrot_on_a_stick
+# Summons portal IF block conducts NOTE: Does not have detection that should be implemented later. NOTE: In the future make it Invisible
+execute if block ~ ~ ~ #pp:conducts run summon armor_stand ~ ~ ~ {ppPortalO:1b,ArmorItems:[{},{},{},{id:"minecraft:dirt",Count:1b,tag:{CustomModelData:1b}}],NoGravity:1b,NoAI:1b,Invulnerable:1b}

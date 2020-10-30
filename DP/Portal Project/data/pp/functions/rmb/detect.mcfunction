@@ -9,12 +9,8 @@
 #   Twitter: https://twitter.com/sheep_commander                   #
 #==================================================================#
 
-# Install needed scoreboards
-scoreboard objectives add ppID dummy
+# Reset score to prevent system retargetting
+scoreboard players set @s ppUsedR 0
 
-# Confirm initiation back end
-scoreboard objectives add ppInit dummy
-scoreboard players set $PP ppInit 1
-
-# Right Click Detection
-scoreboard objectives add ppUseR used:carrot_on_a_stick
+# If holding Portal Gun run function
+execute as @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{ppGun:1b}}}] at @s run function pp:rmb/raycast

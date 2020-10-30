@@ -5,10 +5,10 @@ Mention of DataPack Name: PP (Ex: $PP in pp:load.mcfunction)
 Base Item for Models: Dirt
 Custom Model Data list:
     Dirt:
-        1 = Portal Orange
+        1 = Portal Orange (Check pp:rmb/hit)
         2 = Portal Blue
     COAS:
-        1 = Portal Gun (/give @s carrot_on_a_stick{ppgun:1b,CustomModelData:1b})
+        1 = Portal Gun (/give @s carrot_on_a_stick{ppGun:1b,CustomModelData:1b})
 
 
 Players have separate pairs of portals

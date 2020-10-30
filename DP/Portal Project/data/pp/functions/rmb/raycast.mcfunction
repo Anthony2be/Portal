@@ -9,12 +9,9 @@
 #   Twitter: https://twitter.com/sheep_commander                   #
 #==================================================================#
 
-# Install needed scoreboards
-scoreboard objectives add ppID dummy
-
-# Confirm initiation back end
-scoreboard objectives add ppInit dummy
-scoreboard players set $PP ppInit 1
-
-# Right Click Detection
-scoreboard objectives add ppUseR used:carrot_on_a_stick
+# Detects if raycast has hit something
+execute unless block ~ ~ ~ #pp:penetrates run function pp:hit
+# Recurses function if it hasn't hit anything
+execute as @s[tag=!ppHit] positioned ^ ^ ^1 run function pp:raycast
+# Resets system for next time player right clicks
+tag @s[tag=Hit] remove Hit
