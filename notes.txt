@@ -7,6 +7,9 @@ Custom Model Data list:
     Dirt:
         1 = Portal Orange (Check pp:rmb/hit)
         2 = Portal Blue
+    Coarse Dirt
+        1 = Orange Bullet
+        2 = Blue Bullet
     COAS:
         1 = Portal Gun (/give @s carrot_on_a_stick{ppGun:1b,CustomModelData:1})
 
