@@ -8,8 +8,7 @@ Custom Model Data list:
         1 = Portal Orange (Check pp:rmb/hit)
         2 = Portal Blue
     COAS:
-        1 = Portal Gun (/give @s carrot_on_a_stick{ppGun:1b,CustomModelData:1b})
-
+        1 = Portal Gun (/give @s carrot_on_a_stick{ppGun:1b,CustomModelData:1})
 
 Players have separate pairs of portals
 Portals go in straight line
