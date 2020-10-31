@@ -18,6 +18,5 @@ scoreboard players set $PP ppInit 1
 
 # Right Click Detection
 scoreboard objectives add ppUseR used:carrot_on_a_stick
-
 # Lock Right Click Detection
 scoreboard objectives add ppLockedR dummy

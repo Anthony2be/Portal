@@ -16,3 +16,7 @@ Custom Model Data list:
 Players have separate pairs of portals
 Portals go in straight line
 Portals move down to avoid clipping
+
+LMB = Blue, RMB = Orange
+
+Refer to Portals; Blue = L, Orange = R

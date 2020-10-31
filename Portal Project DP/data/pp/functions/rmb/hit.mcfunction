@@ -12,5 +12,8 @@
 # Tell system it hit something to stop raycast
 tag @s add ppHit
 
+# Kills pre-existing portal
+kill @e[type=armor_stand,tag=ppPortalR]
+
 # Summons portal IF block conducts NOTE: Does not have detection that should be implemented later. NOTE: In the future make it Invisible
-execute if block ~ ~ ~ #pp:conducts run summon armor_stand ~ ~ ~ {ppPortalO:1b,ArmorItems:[{},{},{},{id:"minecraft:dirt",Count:1b,tag:{CustomModelData:1}}],NoGravity:1b,NoAI:1b,Invulnerable:1b}
+execute if block ~ ~ ~ #pp:conducts run summon armor_stand ~ ~ ~ {Tags:["ppPortalR"],ArmorItems:[{},{},{},{id:"minecraft:dirt",Count:1b,tag:{CustomModelData:1}}],NoGravity:1b,NoAI:1b,Invulnerable:1b}

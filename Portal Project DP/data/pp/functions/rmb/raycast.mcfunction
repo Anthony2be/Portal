@@ -10,8 +10,8 @@
 #==================================================================#
 
 # Detects if raycast has hit something
-execute unless block ~ ~ ~ #pp:penetrates run function pp:hit
+execute unless block ~ ~ ~ #pp:penetrates run function pp:rmb/hit
 # Recurses function if it hasn't hit anything
-execute as @s[tag=!ppHit] positioned ^ ^ ^1 run function pp:raycast
+execute as @s[tag=!ppHit] positioned ^ ^ ^1 run function pp:rmb/raycast
 # Resets system for next time player right clicks
-tag @s[tag=Hit] remove Hit
+tag @s[tag=ppHit] remove ppHit
