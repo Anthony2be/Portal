@@ -12,3 +12,6 @@
 
 # Prevents system from retargetting by assigning an ID
 execute store result score @s ppID run scoreboard players add $New_ID ppID 1
+
+# To make sure system doesn't mistake player for being locked
+scoreboard players set @s ppLockedR 0

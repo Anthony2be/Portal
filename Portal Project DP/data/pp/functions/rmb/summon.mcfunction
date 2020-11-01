@@ -9,8 +9,14 @@
 #   Twitter: https://twitter.com/sheep_commander                   #
 #==================================================================#
 
-# Tell system it hit something to stop raycast
-tag @s add ppHit
+# Kills pre-existing portal
+execute at @e[type=armor_stand,tag=ppPortalR] if score @s ppID = @e[sort=nearest,tag=ppPortalR,type=armor_stand] ppID run kill @e[sort=nearest,tag=ppPortalR,type=armor_stand]
 
-# Summons portal IF block conducts NOTE: Does not have detection that should be implemented later. NOTE: In the future make it Invisible
-execute if block ~ ~ ~ #pp:conducts as @s positioned ~ ~ ~ run function pp:rmb/summon
+# Summons armor stand
+summon armor_stand ~ ~ ~ {Tags:["ppPortalR"],ArmorItems:[{},{},{},{id:"minecraft:dirt",Count:1b,tag:{CustomModelData:1}}],NoGravity:1b,NoAI:1b,Invulnerable:1b}
+
+# Makes armor stand look the way the player will be outputted and locks the axis to y=0
+## This is just placeholder for until we figure something out
+
+# Assigns player's ID to Portal
+scoreboard players operation @e[tag=ppPortalR,sort=nearest,limit=1] ppID = @s ppID

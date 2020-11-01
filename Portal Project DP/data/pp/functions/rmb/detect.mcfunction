@@ -13,4 +13,4 @@
 scoreboard players set @s ppUsedR 0
 
 # If holding Portal Gun run function
-execute as @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{ppGun:1b}}},scores=!{ppLockedR=1}] at @s run function pp:rmb/raycast
+execute as @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{ppGun:1b}}},scores={ppLockedR=0}] at @s run function pp:rmb/raycast
