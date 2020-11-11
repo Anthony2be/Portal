@@ -1,6 +1,9 @@
 # Portal
-Portal project
-this is  a wip
+This is a work in progress project that adds portals to minecraft
+some features include:
+blue and orange portal locking
+easy to use
+and more!
 
 CREDITS
 ------------
