@@ -2,12 +2,12 @@
 - This is a work in progress project that adds portals to minecraft
 - About 10% done
 
-CREDITS
+Credits
 ------------
 - Thanks to Sir Benet for letting us use his amazing portal gun model
 - Thanks to Valve for making the Portal games
 
-WHERE TO BUY THE PORTAL GAMES
+Where To Buy The Portal Games
 ------------
 
  - Portal 1: https://store.steampowered.com/app/400/Portal/ $10
