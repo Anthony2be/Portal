@@ -1,4 +1,4 @@
-# Portal
+# Portal Project
 - This is a work in progress project that adds portals to minecraft
 - About 10% done
 
