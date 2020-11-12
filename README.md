@@ -1,5 +1,6 @@
 # Portal
-This is a work in progress project that adds portals to minecraft
+- This is a work in progress project that adds portals to minecraft
+- About 10% done
 
 CREDITS
 ------------
