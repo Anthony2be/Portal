@@ -1,6 +1,5 @@
 # Portal
-Portal project
-this is  a wip
+This is a work in progress project that adds portals to minecraft
 
 CREDITS
 ------------
