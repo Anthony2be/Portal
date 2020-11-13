@@ -4,7 +4,7 @@
 - It is about 10% done
 
 #### Credits
-- Thanks to [Sir Benet](https://www.reddit.com/user/SirBenet) "Sir Benet's Reddit") for letting us use his amazing [portal gun model](https://www.reddit.com/r/Minecraft/comments/b15dho/vanilla_portal_gun_in_latest_snapshot_with/ "link to the reddit post for his portal gun datapack")
+- Thanks to [Sir Benet](https://www.reddit.com/user/SirBenet) for letting us use his amazing [portal gun model](https://www.reddit.com/r/Minecraft/comments/b15dho/vanilla_portal_gun_in_latest_snapshot_with/ "link to the reddit post for his portal gun datapack")
 - Thanks to Valve for making the Portal games. [Valve's Website](https://www.valvesoftware.com), [Valve's Steam page](https://store.steampowered.com/publisher/valve)
 
 #### Where To Buy The Portal Games
