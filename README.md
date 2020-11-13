@@ -10,5 +10,5 @@ Credits
 Where To Buy The Portal Games
 -----------
  - [Portal 1](https://store.steampowered.com/app/400/Portal/)
- - Portal 2: https://store.steampowered.com/app/620/Portal_2/ $10
+ - [Portal 2](https://store.steampowered.com/app/620/Portal_2/)
  - Portal (1&2) Bundle: https://store.steampowered.com/bundle/234/Portal_Bundle/ $15
