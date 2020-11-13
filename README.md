@@ -1,7 +1,7 @@
 # Portal Project
 #### Overview
-- This is a WIP project that adds portals to minecraft
-- About 10% done
+- This is a WIP project that adds portals to minecraft using datapacks and resourcepacks 
+- It is about 10% done
 
 #### Credits
 - Thanks to [Sir Benet](https://www.reddit.com/u/SirBenet/ "Sir Benet's Reddit") for letting us use his amazing [portal gun model](https://www.reddit.com/r/Minecraft/comments/b15dho/vanilla_portal_gun_in_latest_snapshot_with/ "link to the reddit post for his portal gun datapack")
