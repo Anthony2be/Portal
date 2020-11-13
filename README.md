@@ -1,6 +1,6 @@
 # Portal Project
 #### Overview
-- This is a WIP project that adds portals to minecraft using datapacks and resourcepacks 
+- This is a WIP project that adds portals to minecraft using a datapack and resourcepack
 - It is about 10% done
 
 #### Credits
