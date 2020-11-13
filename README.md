@@ -5,7 +5,7 @@
 Credits
 ------------
 - Thanks to Sir Benet for letting us use his amazing portal gun model
-- Thanks to Valve for making the Portal games. [Valves Website](https//:www.valvesoftware.com)
+- Thanks to Valve for making the Portal games. [Valves Website](https://www.valvesoftware.com)
 
 Where To Buy The Portal Games
 -----------
