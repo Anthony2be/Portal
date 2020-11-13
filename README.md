@@ -4,7 +4,7 @@
 
 Credits
 ------------
-- Thanks to [Sir Benet](https://www.reddit.com/u/SirBenet/) for letting us use his amazing portal gun model [from his own portal gun datapack](https://www.reddit.com/r/Minecraft/comments/b15dho/vanilla_portal_gun_in_latest_snapshot_with/)
+- Thanks to [Sir Benet](https://www.reddit.com/u/SirBenet/) for letting us use his amazing [portal gun model](https://www.reddit.com/r/Minecraft/comments/b15dho/vanilla_portal_gun_in_latest_snapshot_with/)
 - Thanks to Valve for making the Portal games. [Valve's Website](https://www.valvesoftware.com), [Valve's Steam page](https://store.steampowered.com/publisher/valve)
 
 Where To Buy The Portal Games
