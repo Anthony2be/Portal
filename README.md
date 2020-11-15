@@ -1,4 +1,4 @@
-# Portal Project
+# The Portal Project
 #### Overview
 - This is a WIP project that adds portals to minecraft while staying multiplayer compatible using a datapack and resourcepack
 - The Portal Project is about [10% done](https://github.com/Anthony2be/Portal/projects "Hyperlink to where you can see how much we are done")
