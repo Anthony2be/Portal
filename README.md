@@ -4,7 +4,7 @@
 - The Portal Project is about [10% done](https://github.com/Anthony2be/Portal/projects "Hyperlink to where you can see how much we are done")
 
 #### Want to create your own Datapack/Resourcepack?
-- [Knowledge Base](https://discord.gg/xpNJdH9 "Knowledge Base discord invite") is a good area to get help in creating your very own Datapack or Resourcepack
+[Knowledge Base](https://discord.gg/xpNJdH9 "Knowledge Base discord invite") is a good area to get help in creating your very own Datapack or Resourcepack
 
 #### Want to contribute?
 Check out the [CONTRIBUTING.md](https://github.com/Anthony2be/Portal/blob/master/CONTRIBUTING.md)
