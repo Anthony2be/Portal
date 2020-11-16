@@ -11,7 +11,7 @@ Custom Model Data list:
         1 = Orange Bullet
         2 = Blue Bullet
     COAS:
-        1 = Portal Gun (/give @s carrot_on_a_stick{ppGun:1b,CustomModelData:1})
+        1 = Portal Gun (/give @s carrot_on_a_stick{ppGun:1b,CustomModelData:1,display:{Name:'{"text":"Portal Gun"}'}})
 
 Players have separate pairs of portals
 Portals go in straight line

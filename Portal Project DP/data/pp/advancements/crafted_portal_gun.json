@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pp:portal_gun"
+            }
+        }
+    },
+    "rewards": {
+        "function": "pp:craft_portal_gun"
+    }
+}
