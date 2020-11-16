@@ -1,7 +1,7 @@
 # The Portal Project
 #### Overview
 - This is a WIP project that adds portals to minecraft while staying multiplayer compatible using a datapack and resourcepack
-- The Portal Project is about [10% done](https://github.com/Anthony2be/Portal/projects "Hyperlink to where you can see how much we are done")
+- The Portal Project is about [20% done](https://github.com/Anthony2be/Portal/projects "Hyperlink to where you can see how much we are done")
 
 #### Want to create your own Datapack/Resourcepack?
 [Knowledge Base](https://discord.gg/xpNJdH9 "Knowledge Base discord invite") is a good area to get help in creating your very own Datapack or Resourcepack
