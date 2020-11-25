@@ -10,7 +10,7 @@
 #==================================================================#
 
 # Scoreboard ID System
-execute as @a[scores=!{ppID=1..}] run function pp:new_player
+execute as @a unless score @s ppID matches 1.. run function pp:new_player
 
 # Right Click Detection
 execute as @a[scores={ppUsedR=1..}] run function pp:rmb/detect
