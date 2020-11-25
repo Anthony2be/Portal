@@ -5,8 +5,8 @@
   },
  
   "overrides": [
-   { "predicate": {"custom_model_data": 1}, "model": "item/orangePortal"},
-   { "predicate": {"custom_model_data": 2}, "model": "item/bluePortal"}
+   { "predicate": {"custom_model_data": 1}, "model": "item/orange_portal"},
+   { "predicate": {"custom_model_data": 2}, "model": "item/blue_portal"}
  
   ]
  
