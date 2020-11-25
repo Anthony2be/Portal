@@ -16,6 +16,6 @@ scoreboard objectives add ppID dummy
 scoreboard players set $version ppInit 1
 
 # Right Click Detection
-scoreboard objectives add ppUseR used:carrot_on_a_stick
+scoreboard objectives add ppUsedR used:carrot_on_a_stick
 # Lock Right Click Detection
 scoreboard objectives add ppLockedR dummy
