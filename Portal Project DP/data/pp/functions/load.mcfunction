@@ -13,4 +13,5 @@
 tellraw @a [{"text": "[PP]: ","color": "aqua"},{"text": "Successfully reloaded!","color": "dark_aqua"}]
 
 # Test for if already initiated > Initiate if not, message if so
-execute unless score ppInit $PP matches 1 run function pp:init
+scoreboard objectives add ppInit dummy
+execute unless score $version ppInit matches 1 run function pp:init

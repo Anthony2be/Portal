@@ -10,7 +10,7 @@
 #==================================================================#
 
 # Kills pre-existing portal
-execute at @e[type=armor_stand,tag=ppPortalR] if score @s ppID = @e[sort=nearest,tag=ppPortalR,type=armor_stand] ppID run kill @e[sort=nearest,tag=ppPortalR,type=armor_stand]
+execute at @e[type=armor_stand,tag=ppPortalR] if score @s ppID = @e[sort=nearest,limit=1,tag=ppPortalR,type=armor_stand] ppID run kill @e[sort=nearest,tag=ppPortalR,type=armor_stand]
 
 # Summons armor stand
 summon armor_stand ~ ~ ~ {Tags:["ppPortalR"],ArmorItems:[{},{},{},{id:"minecraft:dirt",Count:1b,tag:{CustomModelData:1}}],NoGravity:1b,NoAI:1b,Invulnerable:1b}
