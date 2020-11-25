@@ -12,6 +12,6 @@
 # Confirm Reloading Front-end
 tellraw @a [{"text": "[PP]: ","color": "aqua"},{"text": "Successfully reloaded!","color": "dark_aqua"}]
 
-scoreboard objectives add ppInit dummy
 # Test for if already initiated > Initiate if not, message if so
+scoreboard objectives add ppInit dummy
 execute unless score $version ppInit matches 1 run function pp:init
